@@ -26,11 +26,6 @@ form {
 	margin: 0;
 }
 
-@font-face {
-    font-family: Geotica;
-    src: url('fonts/Geotica.eot');
-}
-
 h1, h2 {
 	margin: 0;
 }
